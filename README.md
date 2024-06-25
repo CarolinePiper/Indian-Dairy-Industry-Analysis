@@ -36,10 +36,3 @@ Matplotlib: for data visualization
 Numpy: for mathematical equations
 SciPy: for mathematical equations
 
-## Deliverables
-● ZIP file containing project folers;
-  - 01 Project Management: Project Brief
-  - 02 Data: Original and Prepared
-  - 03 Scripts: The Jupyter notebooks containing the coding for the analysis
-  - 04 Analysis: Reports and Visualizations
-  - 05 Sent to Client: The final report presented in Excel
